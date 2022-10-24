@@ -21,7 +21,7 @@
  <a href="https://wa.me/+5585997616506" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/luizalexpereiracavalcante/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  
+  ![Snake animation](https://github.com/luizalex88/luizalex88/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
